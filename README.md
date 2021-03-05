@@ -4,12 +4,6 @@
 
 [![test1]](http://img.shields.io/badge/-test2-yellowgreen?style=plastic&logo=FF5722&link=https://private-space.tistory.com)(https://private-space.tistory.com)
 
-http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)
-
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhmin5693&show_icons=true)
-
----
-
-[![Top Langs](https://github.com/dhmin5693/github-readme-stats)
